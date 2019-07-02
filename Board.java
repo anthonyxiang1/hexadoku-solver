@@ -1,7 +1,4 @@
 //Anthony Xiang
-//112166670
-
-package finalprojGUI;
 
 public class Board {
 
