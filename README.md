@@ -1,6 +1,10 @@
 # Hexadoku Solver
 
-JavaFX GUI app used to solve a 16 by 16 board of the classic puzzle game [sudoku](https://en.wikipedia.org/wiki/Sudoku)
+JavaFX GUI app used to solve a 16 by 16 board variation of the classic 9 by 9 puzzle game [Sudoku](https://en.wikipedia.org/wiki/Sudoku).
+
+## Inspiration/Description
+
+Sudoku is fun and all but... 16 by 16 is a bit too time consuming. Using a recursive backtracking algorithm, this app can solve all solvable hexadoku boards given the initial board!
 
 ## Usage
 
@@ -31,4 +35,4 @@ JRE 1.8.0_191
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
